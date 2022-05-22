@@ -1,0 +1,1 @@
+Count without prices = 8220000 .... out of which 822 UUIDs were Unique. so the products should be 822.
